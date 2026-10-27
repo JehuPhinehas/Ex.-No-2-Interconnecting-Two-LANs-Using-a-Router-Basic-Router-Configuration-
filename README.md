@@ -36,7 +36,8 @@ ________________________________________
 •	PC0 → Switch0 → Router (FastEthernet0/0)<br>
 •	PC1 → Switch1 → Router (FastEthernet0/1)<br>
 
-<img width="1917" height="1073" alt="Screenshot 2026-10-27 190041" src="https://github.com/user-attachments/assets/3c32c3c2-b608-4fcb-995d-1641730b164e" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/05ebc42e-1436-47e4-9d8f-a43d25e3dad6" />
+
 
 ________________________________________
 # IP Addressing Table
