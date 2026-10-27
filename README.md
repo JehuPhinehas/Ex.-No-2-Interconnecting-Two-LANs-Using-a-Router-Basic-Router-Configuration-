@@ -1,5 +1,6 @@
 # Date :27/10/2026
 ## Ex.-No-2-Interconnecting-Two-LANs-Using-a-Router-Basic-Router-Configuration
+# NAME : JEHU PHINEHAS J 212224060109
 
 
 # Objective
