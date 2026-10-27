@@ -36,7 +36,8 @@ ________________________________________
 •	PC0 → Switch0 → Router (FastEthernet0/0)<br>
 •	PC1 → Switch1 → Router (FastEthernet0/1)<br>
 
-<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/05ebc42e-1436-47e4-9d8f-a43d25e3dad6" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/f6736ec8-4122-4132-ab10-61a293e556ee" />
+
 
 
 ________________________________________
