@@ -57,26 +57,31 @@ ________________________________________
 # Output (Screenshots)
 •	Router CLI configuration<br>
 
-<img width="1917" height="1077" alt="Screenshot 2026-10-27 190446" src="https://github.com/user-attachments/assets/2a0655c7-0aa0-4129-a021-df94e9da7913" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/57ec1d7c-e98e-4256-ab09-e7286b5d7508" />
+
 
 
 •	IP configurations on PCs<br>
 PC0:
 
-<img width="1917" height="1078" alt="Screenshot 2026-10-27 185723" src="https://github.com/user-attachments/assets/76436889-8a8b-41d5-95d1-1fb6e78a0036" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/3b251fcd-6480-4854-8cdb-ad541c08a593" />
+
 
 
 PC1:
 
-<img width="1917" height="1078" alt="Screenshot 2026-10-27 185749" src="https://github.com/user-attachments/assets/7d4fe423-24db-4bc7-b19b-43ab6d7a5976" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/0d2348d3-af36-4f89-b81a-441c2c8a4278" />
+
 
 
 •	Successful ping between PC0 and PC1<br>
 PC0:
-<img width="1915" height="1076" alt="Screenshot 2026-10-27 184458" src="https://github.com/user-attachments/assets/5c46b6d9-0832-4e75-997f-b5ae8a41a064" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/5c9843aa-33a4-4736-a7bc-0e7cf484318b" />
+
 
 PC1:
-<img width="1917" height="1075" alt="Screenshot 2026-10-27 185623" src="https://github.com/user-attachments/assets/686fb34f-5208-4cae-b2cd-ec7f030842d6" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/d1b42bef-9b28-49eb-ac64-ae3d0d6edd37" />
+
 
 
 
